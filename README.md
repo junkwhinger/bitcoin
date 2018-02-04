@@ -4,10 +4,10 @@ This repo contains some crypto-currency price data crawled from coinmarketcap.co
 ## Visualisations
 
 ### Hyman Minsky chart and BitCoin price over time
-![](Coin%20Analysis_files/Coin%20Analysis_5_0.png)
+![](Coin%20Analysis_files/Coin%20Analysis_17_0.png)
 
 ### Hyman Minsky sequences in BitCoin price over time
-![](Coin%20Analysis_files/Coin Analysis_24_0.png)
+![](Coin%20Analysis_files/Coin%20Analysis_24_0.png)
 
 ## Data Source
 <a href="https://coinmarketcap.com/coins/">coinmarketcap.com</a>
